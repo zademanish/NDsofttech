@@ -7,7 +7,7 @@ Frontend/node_modules/
 Backend/node_modules/
 
 #Env
-frontend/.env
-backend/.env
+Frontend/.env
+Backend/.env
 
 .DS_store
